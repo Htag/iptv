@@ -15,6 +15,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 http://xstream.uhdiptv.net:8000/live/yavuzdemirereniptv/yavuz161020/81403.m3u8
 #EXTINF:-1 tvg-name="RTL 9 HD" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",RTL 9 HD
 http://xstream.uhdiptv.net:8000/live/yavuzdemirereniptv/yavuz161020/81404.m3u8
+#EXTINF:-1 tvg-name="TF1" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" group-title="Entertainment",TF1
+http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="FR - GAME ONE  1 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/GAMEONE1.png" group-title="EU | FRANCE GENERAL",FR - GAME ONE  1 FHD
+http://youmitof.com:80/hervlokossou/D466026A9687/56969
 
 
 
