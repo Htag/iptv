@@ -11,49 +11,49 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
 #EXTINF:-1 tvg-name="BFMTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFMTV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgz4t1
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="Kids",Gulli (540p)
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="France",Gulli (540p)
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-country="FR" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png" group-title="Kids",Gulli Bil Arabi (1080p)
+#EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-country="FR" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png" group-title="France",Gulli Bil Arabi (1080p)
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 tvg-id="GulliGirl.fr" tvg-country="RU" tvg-language="Russian" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/51763/2a000001659f94a58c4010a1851980b99d4d/160x160" group-title="Kids",Gulli Girl (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="GulliGirl.fr" tvg-country="RU" tvg-language="Russian" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/51763/2a000001659f94a58c4010a1851980b99d4d/160x160" group-title="France",Gulli Girl (576p) [Not 24/7]
 http://188.40.68.167/russia/gulli_girl/playlist.m3u8
-#EXTINF:-1 tvg-id="BoingFrance.it" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="Kids",Boing France (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BoingFrance.it" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="France",Boing France (720p) [Not 24/7]
 http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Cnews.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/vT6GMpCV/cnews.png" group-title="News",Cnews (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Cnews.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/vT6GMpCV/cnews.png" group-title="France",Cnews (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
-#EXTINF:-1 tvg-id="CSTAR.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/kPvRgcY.png" group-title="Entertainment",CSTAR (720p)
+#EXTINF:-1 tvg-id="CSTAR.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/kPvRgcY.png" group-title="France",CSTAR (720p)
 http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="DBM.fr" tvg-country="FR" tvg-language="French" tvg-logo="http://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="",DBM (1080p)
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
-#EXTINF:-1 tvg-id="EMCITV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/avIsx8W.png" group-title="",EMCI TV (1080p)
+#EXTINF:-1 tvg-id="EMCITV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/avIsx8W.png" group-title="Religions",EMCI TV (1080p)
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/SKxgxTLz/fr2.png" group-title="General",France 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="France2.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/SKxgxTLz/fr2.png" group-title="France",France 2 (720p) [Not 24/7]
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/JzmT94Gx/fr3.png" group-title="General",France 3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="France3.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/JzmT94Gx/fr3.png" group-title="France",France 3 (720p) [Not 24/7]
 http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/4x58Zkcg/fr4.png" group-title="Kids",France 4 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="France4.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/4x58Zkcg/fr4.png" group-title="France",France 4 (720p) [Geo-blocked]
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/8zjFkLJz/fr5.png" group-title="General",France 5 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="France5.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/8zjFkLJz/fr5.png" group-title="France",France 5 (720p) [Not 24/7]
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
+#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="France",France 24 English (1080p)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="France24Francais.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Français (1080p)
+#EXTINF:-1 tvg-id="France24Francais.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",France 24 Français (1080p)
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="FranceInter.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/PYqQyRv.png" group-title="General",France Inter (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FranceInter.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/PYqQyRv.png" group-title="France",France Inter (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://proxymedia.woopic.com/api/v1/images/553%2Flogos%2Fv2%2Flogos%2Flivetv_franceinfo%2F20151026_092415%2FwebTVLogo%2Flogo_180x96.png" group-title="News",Franceinfo (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/franceinfo/live
-#EXTINF:-1 tvg-id="LCI.fr" tvg-country="FR;BE;CH;LU" tvg-language="French" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="News",LCI (720p)
+#EXTINF:-1 tvg-id="LCI.fr" tvg-country="FR;BE;CH;LU" tvg-language="French" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="France",LCI (720p)
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Entertainment",M6 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="France",M6 (720p) [Not 24/7]
 http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" group-title="Entertainment",TF1 (720p)
+#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" group-title="France",TF1 (720p)
 http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mwHtXya.jpg" group-title="General",TV5 Monde Europe (1080p)
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mwHtXya.jpg" group-title="France",TV5 Monde Europe (1080p)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/master.m3u8
-#EXTINF:-1 tvg-id="TV5MondeFranciaFR.fr" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="General",TV5Monde Francia FR (1080p)
+#EXTINF:-1 tvg-id="TV5MondeFranciaFR.fr" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="France",TV5Monde Francia FR (1080p)
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 
 
