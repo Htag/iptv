@@ -32,50 +32,50 @@ https://s6.tntendirect.com/m6/live/playlist.m3u8
 https://s6.tntendirect.com/lequipe21/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ARTE" tvg-country="FR" tvg-language="French" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="France",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-name="BFMTV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFMTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="BFMTV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFMTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgz4t1
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/France/France-24-fr.png" group-title="France",France 24
 https://static.France24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-name="CStar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png" group-title="France",CStar
 https://s6.tntendirect.com/d17/live/playlist.m3u8
-#EXTINF:-1 tvg-name="WildsideTV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/mZJXXMkp/wildside.png" group-title="Movies",Wildside 
+#EXTINF:-1 tvg-name="Wildside Tv" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/mZJXXMkp/wildside.png" group-title="Movies",Wildside Tv
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="2STV" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/3mbeewx.png" group-title="Afrique",2STV (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="2STV" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/3mbeewx.png" group-title="Afrique",2STV (720p)
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vidbb
-#EXTINF:-1 tvg-name="RTS1" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="" group-title="",RTS1 (480p) [Not 24/7]
+#EXTINF:-1 tvg-name="RTS1" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="" group-title="Afrique",RTS1
 https://iptv-all.lanesh4d0w.repl.co/senegal/rts1
-#EXTINF:-1 tvg-name="RTS2" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="" group-title="",RTS2 (480p) [Not 24/7]
+#EXTINF:-1 tvg-name="RTS2" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="" group-title="Afrique",RTS2
 https://iptv-all.lanesh4d0w.repl.co/senegal/rts2
-#EXTINF:-1 tvg-namenamenamename="SenTV" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="" group-title="",SenTV [Not 24/7]
+#EXTINF:-1 tvg-namenamenamename="SenTV" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="" group-title="Afrique",SenTV
 https://iptv-all.lanesh4d0w.repl.co/senegal/sentv
-#EXTINF:-1 tvg-namenamename="ORTM1" tvg-country="ML" tvg-language="French" tvg-logo="" group-title="Afrique",ORTM1 (576p) [Not 24/7]
+#EXTINF:-1 tvg-namenamename="ORTM1" tvg-country="ML" tvg-language="French" tvg-logo="" group-title="Afrique",ORTM1
 http://51.210.1.13:18000/ortm/hls/playlist.m3u8
-#EXTINF:-1 tvg-namename="RTG" tvg-country="GN" tvg-language="French" tvg-logo="https://i.imgur.com/moTF5EE.jpg" group-title="",RTG (240p) [Not 24/7]
+#EXTINF:-1 tvg-namename="RTG" tvg-country="GN" tvg-language="French" tvg-logo="https://i.imgur.com/moTF5EE.jpg" group-title="Afrique",RTG
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
-#EXTINF:-1 tvg-name="Vision4" tvg-country="CM" tvg-language="English;French" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="",Vision 4 (360p)
+#EXTINF:-1 tvg-name="Vision4" tvg-country="CM" tvg-language="English;French" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="Afrique",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
 
-#EXTINF:-1 tvg-name="BoingFrance" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="France",Boing France (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="Boing France" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="France",Boing France
 http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test
-#EXTINF:-1 tvg-name="DieuTV" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="Religious",Dieu TV (1080p)
+#EXTINF:-1 tvg-name="Dieu Tv" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="Religious",Dieu TV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="EMCITV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/avIsx8W.png" group-title="Religious",EMCI TV (1080p)
+#EXTINF:-1 tvg-name="EMCITV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/avIsx8W.png" group-title="Religious",EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
-#EXTINF:-1 tvg-namenamename="EmergenceTV" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/REJJHir.jpg" group-title="Religious",Emergence TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-namenamename="Emergence TV" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/REJJHir.jpg" group-title="Religious",Emergence TV
 http://connectiktv.ddns.net:5000/emergencetv/emergencetv/playlist.m3u8
-#EXTINF:-1 tvg-namename="EsperanceTV" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/wnz50vR.png" group-title="Religious",Espérance TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-namename="Esperance TV" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/wnz50vR.png" group-title="Religious",Esperance TV
 https://hcinteram.mmdlive.lldns.net/hcinteram/5fb30e8b271544039e79f93d4d496b25/manifest.m3u8
-#EXTINF:-1 tvg-name="KTO" tvg-country="FR;UK;PT;ES;DK;NL;BE;CH" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO (404p)
+#EXTINF:-1 tvg-name="KTO" tvg-country="FR;UK;PT;ES;DK;NL;BE;CH" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 
-#EXTINF:-1 tvg-namename="GolfeTVAfrica" tvg-country="BJ" tvg-language="English;French" tvg-logo="https://i.imgur.com/AIXn66Q.png" group-title="News",Golfe TV Africa (1080p) [Not 24/7]
+#EXTINF:-1 tvg-namename="Golfe Tv Africa" tvg-country="BJ" tvg-language="English;French" tvg-logo="https://i.imgur.com/AIXn66Q.png" group-title="News",Golfe Tv Africa 
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC98EZ3PHQNrqV-B-CtwAHMA/live
-#EXTINF:-1 tvg-name="LCI" tvg-country="FR;BE;CH;LU" tvg-language="French" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="News",LCI (720p)
+#EXTINF:-1 tvg-name="LCI" tvg-country="FR;BE;CH;LU" tvg-language="French" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="News",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 
 
