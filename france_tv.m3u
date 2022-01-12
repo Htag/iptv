@@ -49,11 +49,11 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.daily
 https://iptv-all.lanesh4d0w.repl.co/senegal/rts1
 #EXTINF:-1 tvg-name="RTS2" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="" group-title="Afrique",RTS2
 https://iptv-all.lanesh4d0w.repl.co/senegal/rts2
-#EXTINF:-1 tvg-namenamenamename="SenTV" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="" group-title="Afrique",SenTV
+#EXTINF:-1 tvg-name="SenTV" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="" group-title="Afrique",SenTV
 https://iptv-all.lanesh4d0w.repl.co/senegal/sentv
-#EXTINF:-1 tvg-namenamename="ORTM1" tvg-country="ML" tvg-language="French" tvg-logo="" group-title="Afrique",ORTM1
+#EXTINF:-1 tvg-name="ORTM1" tvg-country="ML" tvg-language="French" tvg-logo="" group-title="Afrique",ORTM1
 http://51.210.1.13:18000/ortm/hls/playlist.m3u8
-#EXTINF:-1 tvg-namename="RTG" tvg-country="GN" tvg-language="French" tvg-logo="https://i.imgur.com/moTF5EE.jpg" group-title="Afrique",RTG
+#EXTINF:-1 tvg-name="RTG" tvg-country="GN" tvg-language="French" tvg-logo="https://i.imgur.com/moTF5EE.jpg" group-title="Afrique",RTG
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
 #EXTINF:-1 tvg-name="Vision4" tvg-country="CM" tvg-language="English;French" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="Afrique",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
