@@ -5,26 +5,6 @@ https://mega.nz/file/uSghgCjA#mN3giOUP5GCYoFCGVMjtDF-0ck0Jsz_GgMU7tNlz9eo
 
 
 
-#EXTINF:-1 tvg-name="CINE+ CLASSIC HD" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",CINE+ CLASSIC HD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65800.m3u8
-#EXTINF:-1 tvg-name="CINE+ CLUB HD" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",CINE+ CLUB HD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62320.m3u8
-#EXTINF:-1 tvg-name="CINE+ Comedy HD" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",CINE+ Comedy HD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65796.m3u8
-#EXTINF:-1 tvg-name="CINE+ EMOTION HD" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",CINE+ EMOTION HD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62319.m3u8
-#EXTINF:-1 tvg-name="CINE+ FAMIZ FHD" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",CINE+ FAMIZ FHD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/94516.m3u8
-#EXTINF:-1 tvg-name="CINE+ FRISSON FHD" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",CINE+ FRISSON FHD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62318.m3u8
-#EXTINF:-1 tvg-name="CINE+ FX HD" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",CINE+ FX HD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62317.m3u8
-#EXTINF:-1 tvg-name="CINE+ POLAR HD" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",CINE+ POLAR HD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62316.m3u8
-#EXTINF:-1 tvg-name="CINE+ PREMIER FHD" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",CINE+ PREMIER FHD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65804.m3u8
-#EXTINF:-1 tvg-name="CINE+ Star HD" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",CINE+ Star HD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65799.m3u8
 
 
 #EXTINF:-1 tvg-name="ARTEFrancais.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="France",ARTE Français (720p) [Geo-blocked]
@@ -36,7 +16,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-name="RTL 9" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",RTL 9
 http://xstream.uhdiptv.net:8000/live/yavuzdemirereniptv/yavuz161020/81403.m3u8
 #EXTINF:-1 tvg-name="RTL 9 HD" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",RTL 9 HD
-http://xstream.uhdiptv.net:8000/live/yavuzdemirereniptv/yavuz161020/81404.m3u8
+http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/5679.m3u8
+#EXTINF:-1 tvg-name="RTL 9 FHD" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",RTL 9 FHD
+http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575534654.m3u8
 #EXTINF:-1 tvg-name="TF1" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" group-title="Entertainment",TF1
 http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="gameone.fr" tvg-name="FR - GAME ONE  1 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/GAMEONE1.png" group-title="EU | FRANCE GENERAL",FR - GAME ONE  1 FHD
