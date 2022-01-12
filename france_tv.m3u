@@ -21,7 +21,7 @@ http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/5679.m3u8
 http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575534654.m3u8
 #EXTINF:-1 tvg-name="TF1" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" group-title="Entertainment",TF1
 http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="gameone.fr" tvg-name="FR - GAME ONE  1 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/GAMEONE1.png" group-title="EU | FRANCE GENERAL",FR - GAME ONE  1 FHD
+#EXTINF:-1 tvg-name="GAME ONE FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/GAMEONE1.png" group-title="FRANCE",GAME ONE FHD
 http://youmitof.com:80/hervlokossou/D466026A9687/56969
 
 
